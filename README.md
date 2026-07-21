@@ -10,7 +10,7 @@ I enjoy building real-world projects and continuously improving my problem-solvi
 
 
 <p align = "center">
-<img src="githubprofile.png" width="200"/>
+<img src="githubprofile.png" width="400"/>
 </p>
 
 
