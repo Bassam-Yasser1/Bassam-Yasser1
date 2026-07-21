@@ -10,7 +10,7 @@ I enjoy building real-world projects and continuously improving my problem-solvi
 
 ---
 
-<img src="githubprofile.png" width="100%"/>
+<img src="githubprofile.png" width="200"/>
 
 ---
 
