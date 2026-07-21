@@ -1,52 +1,103 @@
-<img src="githubprofile.png" width="250" align="right"/>
-
-
 # 💫 About Me
 
-Flutter Mobile Application Developer passionate about building scalable cross-platform applications using Flutter and Dart. Interested in mobile architecture, clean code, and user-focused application design.
+Senior Computer Science student at Cairo University with a strong interest in Backend Development and Software Engineering.
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bassam_yasser_elkholy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bassam-yasser-elkhooly)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bassamyasser11@gmail.com)
+Currently focused on the .NET ecosystem, building RESTful APIs, and understanding how scalable systems are designed and implemented.
 
+With a solid background in mobile application development and hands-on experience building real-world systems.
+
+I enjoy building real-world projects and continuously improving my problem-solving and system design skills.
+
+---
+
+<img src="githubprofile.png" width="100%"/>
 
 ---
 
 # 🚀 Projects
 
-### 📱 STAR Attendance Mobile App
-Mobile attendance system for **Star Union – FCAI Cairo University** that automates session check-ins using secure QR codes with role-based access and backend integration.  
-**Tech:** Flutter, QR System, Backend Integration  
+### 📱 STAR Attendance System
+Mobile-based attendance system using QR codes with role-based access and backend integration.
+
+**Tech:** Flutter, REST APIs  
 
 ---
 
-### 🧭 Boslah – Smart Tour Guide
-Location-based mobile app that helps tourists discover nearby attractions, navigate using Google Maps, manage favorite places, and interact with an AI chatbot.  
-**Tech:** Flutter, Supabase, Google Maps API, Gemini API  
-🔗 https://github.com/Bassam-Yasser1/DEPI-Graduation-Project
+### 💻 Linux Command Line Interpreter
+Java-based CLI that simulates a terminal, with both console and GUI versions.
+
+**Tech:** Java, OOP, Swing
+
+🔗 https://github.com/ahmed2005hussen/Command-Line-Interpreter-using-Java
+
+---
+
+### 🧭 Boslah – Smart Tour Guide App
+Location-based mobile app with maps, favorites system, scheduling system, and AI chatbot.
+
+**Tech:** Flutter, Supabase
+
+🔗 https://github.com/Bassam-Yasser1/DEPI-Graduation-Project  
 
 ---
 
 ### 🚇 Metro Guide App
-Mobile metro navigation app that calculates routes, ticket price, travel time, and interchange stations while supporting offline station data and location detection.  
-**Tech:** Flutter, Local Storage, Location Services  
-🔗 https://github.com/mhmdashraf11/Metro-app
+Metro navigation mobile app with route calculation and offline support.
+
+🔗 https://github.com/mhmdashraf11/Metro-app  
+
+---
+
+### 💻 CPU Scheduler
+Java-based simulator for common CPU Scheduling algorithms. supports structured JSON input, and includes unit tests for validation.
+
+**Tech:** Java, Maven, Jakson, JUnit
+
+🔗 https://github.com/ahmed2005hussen/CPU_Scheduling
+
+---
+
+### ⚙️ Recursion and Polymorphism Simulation
+Demonstrates recursion and polymorphism through a simulation that showcases dynamic behavior and method execution in cpp.
+
+🔗 https://github.com/Bassam-Yasser1/Recursion-and-Polymorphism-Simulation-in-cpp
 
 ---
 
 # 💻 Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## 🧩 Languages
+- C#
+- Java
+- Python
+- Dart
+- C++
+
+## ⚙️ Software Engineering
+- RESTful APIs
+- Authentication & Authorization
+- Clean Architecture
+- Database Design
+- OOP & Design Patterns
+
+## 🛠 Tools & Platforms
+- ASP.NET Core
+- Entity Framework
+- Flutter
+- SQL Server
+- Firebase
+- Supabase
+- Linux
+- Git & GitHub
+- Figma
+
+---
+
+# 🤝 Let's Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bassam_yasser_elkholy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bassam-yasser-elkhooly)
+📧 Email: bassamyasser11@gmail.com  
 
 ---
 
