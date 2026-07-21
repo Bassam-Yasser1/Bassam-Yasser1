@@ -8,13 +8,13 @@ With a solid background in mobile application development and hands-on experienc
 
 I enjoy building real-world projects and continuously improving my problem-solving and system design skills.
 
----
+***
 
 <p align = "center">
 <img src="githubprofile.png" width="200"/>
 </p>
 
----
+***
 
 # 🚀 Projects
 
